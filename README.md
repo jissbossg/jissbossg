@@ -1,8 +1,6 @@
 ## Hello, my name is Jorge Ivan Sierra Suarez 👋
 ## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋 
 
-<img src="https://camo.githubusercontent.com/824cb781326f5c00122e233422683813c8c30c452acddcb94d6aa0465dff8ff9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4d6f7572656465765f62795f42726169735f4d6f7572652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="YouTube" data-canonical-src="[https://img.shields.io/badge/](https://www.youtube.com/@jissbossg)?style=for-the-badge&amp;logo=youtube&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-
 <!--
 **JISSBOSSG/jissbossg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
