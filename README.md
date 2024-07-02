@@ -1,6 +1,7 @@
 ## Hello, my name is Jorge Ivan Sierra Suarez 👋
-## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋 
-
+## Software Developer
+## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋
+## Desarrollador de Software
 <!--
 **JISSBOSSG/jissbossg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
