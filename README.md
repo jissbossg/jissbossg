@@ -1,15 +1,22 @@
-## Hello, my name is Jorge Ivan Sierra Suarez 👋<br>Software Developer
+## Hello, my name is Jorge Ivan Sierra Suarez 👋<br>👨‍💻 Software Developer
 
-## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋<br>Desarrollador de Software
+## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋<br>👨‍💻 Desarrollador de Software
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jissbossg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jissbossg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=jissbossg.jissbossg&"/></div>
+
 ##
 
-### My social networks<br>Mis redes sociales
+###
+
+### 🌍🔗<br>My social networks<br>Mis redes sociales
+
 ###
 
 <div align="center"><a href="https://app.aluracursos.com/user/jissbossg
@@ -18,12 +25,13 @@
 
 ##
 
-### Views<br>Vistas
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jissbossg/count.svg?"  />
-</div>
+### 🔎<br>Views<br>Vistas
+
+###
+
+<div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?"/></div>
 
 ###
 <!--
