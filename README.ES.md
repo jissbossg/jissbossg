@@ -126,5 +126,5 @@
 <hr>
 
 ## 👁 Views
-<div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?&theme=radical&format=true" height="50" width="200" alt="Visitor badge"/><hr></div> 
+<div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr></div> 
 
