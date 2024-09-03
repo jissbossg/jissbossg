@@ -1,12 +1,12 @@
-# 💫 About Me:
+# 💫 Acerca de mí:
 <div align="left">
-👋 Hello, my name is Jorge Ivan Sierra Suarez <br>👨‍💻 I’m Software Developer
-<a href="README.md" target="_blank">For more details in Spanish, see 
+👋 Hola, mi nombre es Jorge Ivan Sierra Suarez <br>👨‍💻 Soy Desarrollador de Software
+<a href="README.md" target="_blank">Para más detalles en inglés, consulta 
 </div>
 
 <hr>
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jissbossg)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jissbossg)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jissbossg)
@@ -41,7 +41,7 @@
 
 <hr>
 
-## 💻 Technologys:
+## 💻 Tecnologías:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,12 +81,12 @@
 
 <hr>
 
-## </><br>Languages:
+## </> Lenguages:
 <div align="left"></div>
 
 <hr>
 
-## 📊 GitHub Stats:
+## 📊 Estadísticas de GitHub:
 <div align="left"> 
   <div align="left">
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=jissbossg&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=500" alt="Github Stats"/>
@@ -101,20 +101,20 @@
 
 <hr>
 
-## 🔝 Top Contributed Repo
+## 🔝 Repositorio más Contribuido:
 <div align="left"><img src="https://github-contributor-stats.vercel.app/api?username=jissbossg&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </div>
 
 <hr>
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos de GitHub:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jissbossg&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 <hr>
 
-## 🧿 Visitors:
+## 🧿 Visitantes:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jissbossg.jissbossg&theme=radical&format=true" alt="Visitor badge"/>
   </div>
@@ -125,6 +125,6 @@
 
 <hr>
 
-## 👁 Views
+## 👁 Vistos:
 <div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr></div> 
 
