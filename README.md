@@ -101,13 +101,13 @@
 
 <hr>
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 <div align="left"><img src="https://github-contributor-stats.vercel.app/api?username=jissbossg&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </div>
 
 <hr>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jissbossg&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
@@ -125,6 +125,6 @@
 
 <hr>
 
-## 👁 Views
+## 👁 Views:
 <div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr></div> 
 
