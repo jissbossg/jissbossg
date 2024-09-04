@@ -99,7 +99,7 @@
 <a href="https://developer.mozilla.org/en/docs/Web/CSS" target="_blank"><img src="assets/icons/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
 </div>
 
-<hr>
+<!--<hr>
 
 ## 📊 GitHub Stats:
 <div align="left"> 
@@ -141,7 +141,8 @@
 <hr>
 
 ## 👁 Views:
-<div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr></div> 
+<div align="center"><img src="https://profile-counter.glitch.me/jissbossg/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr>
+</div> -->
 
 <!--
 Here are some ideas to get you started:
