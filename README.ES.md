@@ -104,7 +104,6 @@
 <a href="https://developer.mozilla.org/en/docs/Web/CSS" target="_blank"><img src="https://jissbossg.github.io/assets-projects/assets/icons/52x40/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
 </div>
 
-
 <!--<hr>
 
 ## 📊 Estadísticas de GitHub:
